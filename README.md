@@ -1,8 +1,6 @@
-## 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 기술 스택
+- **Language:** Java, Kotlin
+- **Framework:** Spring Framework, Spring Batch, WebFlux
+- **Persistence:** Spring Data JPA, Spring Data R2DBC, QueryDSL
+- **Database:** MySQL, PostgreSQL, Redis
+- **Test:** JUnit5, Kotest, Mockito
