@@ -1,6 +1,6 @@
 ## Tech Stack
 - **Language:** Java, Kotlin
 - **Framework:** Spring Web MVC, Spring WebFlux, Spring Security, Spring Batch
-- **Persistence:** Spring Data JPA, Spring Data R2DBC, QueryDSL
+- **Persistence:** Spring Data JPA, Spring Data R2DBC, Querydsl
 - **Database:** MySQL, PostgreSQL, Redis
 - **Test:** JUnit5, Mockito, Kotest, MockK
